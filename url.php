@@ -6,7 +6,7 @@ if (!ctype_digit($id)) {
 }
 
 // Fetch JSON data from the URL
-$url = 'https://raw.githubusercontent.com/ttoor5/tataplay_urls/main/tplay.txt';
+$url = 'https://raw.githubusercontent.com/giobhai/tatatatampd/main/tplay.txt';
 
 // Use cURL for fetching data
 $ch = curl_init($url);
